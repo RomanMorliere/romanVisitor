@@ -1,0 +1,25 @@
+Program
+Block
+Declaration
+FunctionDeclaration
+Formals
+IntType
+BoolType
+If
+While
+Return
+Assignment
+Call
+ActualArguments
+RelOp           s
+AddOp           s
+MultOp          s
+Int             s
+Identifier      s
+Number
+NumberLit       s
+CharType
+CharLit         s
+From
+Range
+Step

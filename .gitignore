@@ -1,0 +1,9 @@
+.vscode/
+*.class
+target/
+lexer/daos/SymbolTable.java
+lexer/daos/TokenKind.java
+sources
+ast/trees/
+/visitor/*.java
+.idea
